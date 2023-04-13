@@ -1,3 +1,9 @@
+---
+title:  "Logistic"
+---
+ 
+머신러닝
+
 # Logistic Regression Classifier Tutorial
 
 ## 1. Introduction to Logistic Regression 
